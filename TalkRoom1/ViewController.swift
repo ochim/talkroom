@@ -10,9 +10,15 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var webView: UIWebView!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        webView.scrollView.bounces = false
+        let gifData = NSData(contentsOfFile: Bundle.main.path(forResource: "cc", ofType: "gif")!)
+        webView.load(gifData as! Data, mimeType: "image/gif", textEncodingName: "utf-8", baseURL: NSURL() as URL)
+        
+        
     }
 
     override func didReceiveMemoryWarning() {

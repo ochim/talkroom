@@ -15,6 +15,18 @@
 		026337B51EB1E189004F04E5 /* TalkRoom1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026337B41EB1E189004F04E5 /* TalkRoom1Tests.swift */; };
 		026337C01EB1E189004F04E5 /* TalkRoom1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026337BF1EB1E189004F04E5 /* TalkRoom1UITests.swift */; };
 		3D835CD280A9F2E84294ACDD /* Pods_TalkRoom1UITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ECBB80BE69CD3E538D8F46DE /* Pods_TalkRoom1UITests.framework */; };
+		564AD8D91EC37ABF00F9CC45 /* backImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 564AD8CD1EC37ABF00F9CC45 /* backImage.jpg */; };
+		564AD8DA1EC37ABF00F9CC45 /* camera.png in Resources */ = {isa = PBXBuildFile; fileRef = 564AD8CE1EC37ABF00F9CC45 /* camera.png */; };
+		564AD8DB1EC37ABF00F9CC45 /* cc.gif in Resources */ = {isa = PBXBuildFile; fileRef = 564AD8CF1EC37ABF00F9CC45 /* cc.gif */; };
+		564AD8DC1EC37ABF00F9CC45 /* five.png in Resources */ = {isa = PBXBuildFile; fileRef = 564AD8D01EC37ABF00F9CC45 /* five.png */; };
+		564AD8DD1EC37ABF00F9CC45 /* four.png in Resources */ = {isa = PBXBuildFile; fileRef = 564AD8D11EC37ABF00F9CC45 /* four.png */; };
+		564AD8DE1EC37ABF00F9CC45 /* library.png in Resources */ = {isa = PBXBuildFile; fileRef = 564AD8D21EC37ABF00F9CC45 /* library.png */; };
+		564AD8DF1EC37ABF00F9CC45 /* one.png in Resources */ = {isa = PBXBuildFile; fileRef = 564AD8D31EC37ABF00F9CC45 /* one.png */; };
+		564AD8E01EC37ABF00F9CC45 /* roomBGI.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 564AD8D41EC37ABF00F9CC45 /* roomBGI.jpg */; };
+		564AD8E11EC37ABF00F9CC45 /* seven.png in Resources */ = {isa = PBXBuildFile; fileRef = 564AD8D51EC37ABF00F9CC45 /* seven.png */; };
+		564AD8E21EC37ABF00F9CC45 /* six.png in Resources */ = {isa = PBXBuildFile; fileRef = 564AD8D61EC37ABF00F9CC45 /* six.png */; };
+		564AD8E31EC37ABF00F9CC45 /* three.png in Resources */ = {isa = PBXBuildFile; fileRef = 564AD8D71EC37ABF00F9CC45 /* three.png */; };
+		564AD8E41EC37ABF00F9CC45 /* two.png in Resources */ = {isa = PBXBuildFile; fileRef = 564AD8D81EC37ABF00F9CC45 /* two.png */; };
 		8D3DC1E209C9E301A149638E /* Pods_TalkRoom1.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5290645BF11BAE75B02B4CCB /* Pods_TalkRoom1.framework */; };
 		C8321A056B3AE7FC2CA1B982 /* Pods_TalkRoom1Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7348722E04E5DA2FBC340E00 /* Pods_TalkRoom1Tests.framework */; };
 /* End PBXBuildFile section */
@@ -52,6 +64,18 @@
 		026337C11EB1E189004F04E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		35724CAD3E60D34C02C1F465 /* Pods-TalkRoom1Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TalkRoom1Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TalkRoom1Tests/Pods-TalkRoom1Tests.release.xcconfig"; sourceTree = "<group>"; };
 		5290645BF11BAE75B02B4CCB /* Pods_TalkRoom1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TalkRoom1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		564AD8CD1EC37ABF00F9CC45 /* backImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = backImage.jpg; sourceTree = "<group>"; };
+		564AD8CE1EC37ABF00F9CC45 /* camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = camera.png; sourceTree = "<group>"; };
+		564AD8CF1EC37ABF00F9CC45 /* cc.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = cc.gif; sourceTree = "<group>"; };
+		564AD8D01EC37ABF00F9CC45 /* five.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = five.png; sourceTree = "<group>"; };
+		564AD8D11EC37ABF00F9CC45 /* four.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = four.png; sourceTree = "<group>"; };
+		564AD8D21EC37ABF00F9CC45 /* library.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = library.png; sourceTree = "<group>"; };
+		564AD8D31EC37ABF00F9CC45 /* one.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = one.png; sourceTree = "<group>"; };
+		564AD8D41EC37ABF00F9CC45 /* roomBGI.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = roomBGI.jpg; sourceTree = "<group>"; };
+		564AD8D51EC37ABF00F9CC45 /* seven.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = seven.png; sourceTree = "<group>"; };
+		564AD8D61EC37ABF00F9CC45 /* six.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = six.png; sourceTree = "<group>"; };
+		564AD8D71EC37ABF00F9CC45 /* three.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = three.png; sourceTree = "<group>"; };
+		564AD8D81EC37ABF00F9CC45 /* two.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = two.png; sourceTree = "<group>"; };
 		7348722E04E5DA2FBC340E00 /* Pods_TalkRoom1Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TalkRoom1Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EBE8C1CCACCE92559024CB4 /* Pods-TalkRoom1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TalkRoom1.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TalkRoom1/Pods-TalkRoom1.debug.xcconfig"; sourceTree = "<group>"; };
 		AA112DD27A5268F04D31BC78 /* Pods-TalkRoom1UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TalkRoom1UITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TalkRoom1UITests/Pods-TalkRoom1UITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -114,6 +138,18 @@
 		0263379E1EB1E189004F04E5 /* TalkRoom1 */ = {
 			isa = PBXGroup;
 			children = (
+				564AD8CD1EC37ABF00F9CC45 /* backImage.jpg */,
+				564AD8CE1EC37ABF00F9CC45 /* camera.png */,
+				564AD8CF1EC37ABF00F9CC45 /* cc.gif */,
+				564AD8D01EC37ABF00F9CC45 /* five.png */,
+				564AD8D11EC37ABF00F9CC45 /* four.png */,
+				564AD8D21EC37ABF00F9CC45 /* library.png */,
+				564AD8D31EC37ABF00F9CC45 /* one.png */,
+				564AD8D41EC37ABF00F9CC45 /* roomBGI.jpg */,
+				564AD8D51EC37ABF00F9CC45 /* seven.png */,
+				564AD8D61EC37ABF00F9CC45 /* six.png */,
+				564AD8D71EC37ABF00F9CC45 /* three.png */,
+				564AD8D81EC37ABF00F9CC45 /* two.png */,
 				0263379F1EB1E189004F04E5 /* AppDelegate.swift */,
 				026337A11EB1E189004F04E5 /* ViewController.swift */,
 				026337A31EB1E189004F04E5 /* Main.storyboard */,
@@ -242,7 +278,7 @@
 				TargetAttributes = {
 					0263379B1EB1E188004F04E5 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = T4P2URJR2Z;
+						DevelopmentTeam = ER4HNCC74B;
 						ProvisioningStyle = Automatic;
 					};
 					026337AF1EB1E189004F04E5 = {
@@ -282,9 +318,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				564AD8DB1EC37ABF00F9CC45 /* cc.gif in Resources */,
+				564AD8E11EC37ABF00F9CC45 /* seven.png in Resources */,
+				564AD8E31EC37ABF00F9CC45 /* three.png in Resources */,
+				564AD8E41EC37ABF00F9CC45 /* two.png in Resources */,
+				564AD8DE1EC37ABF00F9CC45 /* library.png in Resources */,
+				564AD8D91EC37ABF00F9CC45 /* backImage.jpg in Resources */,
 				026337AA1EB1E189004F04E5 /* LaunchScreen.storyboard in Resources */,
+				564AD8E21EC37ABF00F9CC45 /* six.png in Resources */,
+				564AD8DC1EC37ABF00F9CC45 /* five.png in Resources */,
 				026337A71EB1E189004F04E5 /* Assets.xcassets in Resources */,
+				564AD8E01EC37ABF00F9CC45 /* roomBGI.jpg in Resources */,
+				564AD8DF1EC37ABF00F9CC45 /* one.png in Resources */,
 				026337A51EB1E189004F04E5 /* Main.storyboard in Resources */,
+				564AD8DA1EC37ABF00F9CC45 /* camera.png in Resources */,
+				564AD8DD1EC37ABF00F9CC45 /* four.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -599,10 +647,10 @@
 			baseConfigurationReference = 8EBE8C1CCACCE92559024CB4 /* Pods-TalkRoom1.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = T4P2URJR2Z;
+				DEVELOPMENT_TEAM = ER4HNCC74B;
 				INFOPLIST_FILE = TalkRoom1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = nijibox.TalkRoom1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ochi.TalkRoom1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -613,10 +661,10 @@
 			baseConfigurationReference = BE0552E587668ADA72F844B6 /* Pods-TalkRoom1.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = T4P2URJR2Z;
+				DEVELOPMENT_TEAM = ER4HNCC74B;
 				INFOPLIST_FILE = TalkRoom1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = nijibox.TalkRoom1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ochi.TalkRoom1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -699,6 +747,7 @@
 				026337C61EB1E189004F04E5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		026337C71EB1E189004F04E5 /* Build configuration list for PBXNativeTarget "TalkRoom1Tests" */ = {
 			isa = XCConfigurationList;
@@ -707,6 +756,7 @@
 				026337C91EB1E189004F04E5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		026337CA1EB1E189004F04E5 /* Build configuration list for PBXNativeTarget "TalkRoom1UITests" */ = {
 			isa = XCConfigurationList;
@@ -715,6 +765,7 @@
 				026337CC1EB1E189004F04E5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
